@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 productionSlot: blue
 blue:
-  enabled: true
+  enabled: false
   tag: latest
 
 green:
